@@ -1,0 +1,26 @@
+body {
+    font-family: 'Bree Serif', serif;
+}
+
+#header {
+    background-color: #206A5D;
+
+}
+
+
+.circular-image {
+    border-radius: 50%; /* Makes the image circular */
+    /* Optional: Adjust the size of the image */
+    width: 200px;
+    height: 200px;
+    /* Optional: Add a border or box-shadow */
+    /* border: 2px solid #577D86; */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+  
+  
+  
+  
+  
+  
+  
